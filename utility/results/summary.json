@@ -1,0 +1,25 @@
+{
+  "n": 3041,
+  "features": [
+    "age",
+    "annual_income",
+    "loan_amount",
+    "interest_rate_pct",
+    "term_months",
+    "credit_score",
+    "num_open_accounts"
+  ],
+  "categorical": [
+    "employment_type",
+    "education",
+    "delinquency_30d",
+    "residence_type"
+  ],
+  "best_synthetic_k": 3,
+  "best_k": 3,
+  "best_ward_k": 2,
+  "tree_agreement": 1.0,
+  "cluster_agreement": 0.14862333202980282,
+  "default_rate": 0.20388030253206182,
+  "sha256": "ac9181e55be37a2436df8eff1a5fb3fe09c6bbb253540a1ff5e3ed4caf1c90af"
+}
